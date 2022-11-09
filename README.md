@@ -15,7 +15,6 @@
 
 ## Approach
 - Followed the below approach :
-- 1. Performed the data clean-up 
 -   i. Identified the null columns and deleted
 -   ii. Identified behaviour variables and deleted 
 -   iii. removed other columns which are not used for analysis ex: URL,collections_12_mths_ex_med,policy_code,acc_now_delinq,chargeoff_within_12_mths,delinq_amnt and tax_liens
