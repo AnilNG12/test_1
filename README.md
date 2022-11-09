@@ -10,18 +10,18 @@
 * [Technologies Used](#technologies-used)
 
 ## General Information
-- Used the sample provided loan data to perform the datanalysis to understad the previously provided loans and to undestand the driving foctors for defaulters 
+- Used the sample provided sample loan data to perform the data analysis to understand the previously provided loans and to derive the driving factors for defaulters
 
 
 ## Approach
-- Followed the belwo approach :
-- 1. Performed the data clenup 
+- Followed the below approach :
+- 1. Performed the data clean-up 
 -   i. Identified the null columns and deleted
--   ii. Identified behaviar variables and deleted 
+-   ii. Identified behaviour variables and deleted 
 -   iii. removed other columns which are not used for analysis ex: URL,collections_12_mths_ex_med,policy_code,acc_now_delinq,chargeoff_within_12_mths,delinq_amnt and tax_liens
 -   iv. Removed % Symbols  and converted tenure to int data type (ex: 32 months to 32)
--   v. Removed the current loan status data from the dataframe 
--   vi. Performed data analysis using uni and bi variate  etc
+-   v. Removed the current loan status data from the data frame 
+-   vi. Performed data analysis using Uni and bi variate  etc
 
 
 ## Technologies Used
@@ -29,7 +29,7 @@ Phython and libraryss "pandas,numpy, seaborn and matplotlib"
 
 
 ## Contact
-Created by Anil Kumar Pallepati and Sougata Konar- feel free to contact me!
+Created by Anil Kumar Pallepati and Sougata Konar- feel free to contact us!
 
 
 <!-- Optional -->
