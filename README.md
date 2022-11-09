@@ -6,41 +6,30 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Approach](#conclusions)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Team Members](#teammembers)
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- 
+- Used the sample provided loan data to perform the datanalysis to understad the previously provided loans and to derive the foctors to mitigate defaulters 
 
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Approach
+- Followed the belwo approach :
+- 1. Performed the data clenup 
+-   i. Identified the null columns and deleted
+-   ii. Identified behaviar variables and deleted 
+-   iii. removed other columns which are not used for analysis ex: URL,collections_12_mths_ex_med,policy_code,acc_now_delinq,chargeoff_within_12_mths,delinq_amnt and tax_liens
+-   iv. Removed % Symbols  and converted tenure to int data type (ex: 32 months to 32)
+-   v. Removed the current loan status data from the dataframe 
+-   vi. Performed data analysis using uni and bi variate  etc
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+Phython and libraryss "pandas,numpy, seaborn and matplotlib"
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by Anil Kumar Pallepati and Sougata Konar- feel free to contact me!
 
 
 <!-- Optional -->
