@@ -10,7 +10,7 @@
 * [Technologies Used](#technologies-used)
 
 ## General Information
-- Used the sample provided loan data to perform the datanalysis to understad the previously provided loans and to derive the foctors to mitigate defaulters 
+- Used the sample provided loan data to perform the datanalysis to understad the previously provided loans and to undestand the driving foctors for defaulters 
 
 
 ## Approach
